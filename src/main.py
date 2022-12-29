@@ -4,4 +4,4 @@ import getter
 
 print('動画IDを入力してください')
 video_id = input()
-getter.get(video_id)
+getter.DownloadSave(video_id)
